@@ -226,7 +226,6 @@ function create_config( )
     "gps",
     "ingroup",
     "inpm",
-    "filter",
     "inrealm",
     "invite",
     "leave_ban",
