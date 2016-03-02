@@ -301,7 +301,7 @@ end
 		res_user(username, kick_ban_res, cbres_extra)
       end
   end
-  if matches[1]:lower() == "banlist" then -- Global ban list
+  if matches[1]:lower() == "anlist" then -- Global ban list
     return banall_list()
   end
 end
