@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 Dont forgot update {structures.c} befor lunch [its anti GIF file]
 
-__HOW DO MAKE UPDATE THIS FILE?
+HOW DO MAKE UPDATE THIS FILE?
 
 see this git https://github.com/BH-YAGHI/tg.git
 
