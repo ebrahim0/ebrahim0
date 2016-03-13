@@ -240,6 +240,7 @@ function create_config( )
     "spam",
     "stats",
     "support",
+    "filterworld",
     "server_manager",
     "time",
     "version"
