@@ -1,4 +1,6 @@
-NOD32-BOT is new and best bot.
+# NOD32-BOT Is New And Best Bot.
+
+Based On TeleSeed.
 _________________________________________________________________________________
 for install  
 ```bash
@@ -37,17 +39,12 @@ ________________________________________________________________________________
 * **Only mods,owner and admin can add bots**
 * **Arabic lock**
 * **And ...**
-
-
 _________________________________________________________________________________
-
-
 Dont forgot update {structures.c} befor lunch [its anti GIF file]
 
 HOW DO MAKE UPDATE THIS FILE?
 
 see this git https://github.com/BH-YAGHI/tg.git
-
 ---------------------------------------------------------------------------------
 channel : https://telegram.me/Nod32team
 
