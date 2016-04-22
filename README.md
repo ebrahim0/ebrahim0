@@ -2,7 +2,7 @@
 
 ## Based On TeleSeed.
 _________________________________________________________________________________
-for install  
+###  For Install  
 ```bash
 sudo apt-get update
 
@@ -42,13 +42,13 @@ ________________________________________________________________________________
  
 ________________________________________________________________________________
 
-# Dont forgot update {structures.c} befor lunch [its anti GIF file]
+# Dont forgot update {structures.c} befor lunch
 
 # HOW DO MAKE UPDATE THIS FILE?
 
-see this git https://github.com/BH-YAGHI/tg.git
+#see this git:  https://github.com/BH-YAGHI/tg.git
 
 ---------------------------------------------------------------------------------
-channel : https://telegram.me/Nod32team
+### channel : https://telegram.me/Nod32team
 
-developer : https://telegram.me/Behroozyaghi
+### developer : https://telegram.me/Behroozyaghi
