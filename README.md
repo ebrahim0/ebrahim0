@@ -1,6 +1,6 @@
 # NOD32-BOT Is New And Best Bot.
 
-Based On TeleSeed.
+## Based On TeleSeed.
 _________________________________________________________________________________
 for install  
 ```bash
@@ -23,7 +23,7 @@ chmod +x launch.sh
 ./launch.sh
 ```
 __________________________________
-Do not forgot change help cammonds
+# Do Not Forgot Change Help Cammonds.
 _________________________________________________________________________________
 * **A powerful Anti spam with custom sensitivity For each group**
 * **Multiple Realms(admin groups)**
@@ -42,9 +42,9 @@ ________________________________________________________________________________
  
 ________________________________________________________________________________
 
-Dont forgot update {structures.c} befor lunch [its anti GIF file]
+# Dont forgot update {structures.c} befor lunch [its anti GIF file]
 
-HOW DO MAKE UPDATE THIS FILE?
+# HOW DO MAKE UPDATE THIS FILE?
 
 see this git https://github.com/BH-YAGHI/tg.git
 
